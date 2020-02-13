@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[113],{610:function(n,t,e){"use strict";e.r(t);var c={mounted:function(){this.$router.push("/login")}},o=e(13),component=Object(o.a)(c,(function(){var n=this.$createElement;return(this._self._c||n)("div")}),[],!1,null,"6c790caf",null);t.default=component.exports}}]);
